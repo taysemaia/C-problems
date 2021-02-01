@@ -1,2 +1,2 @@
 # probleminhas-em-C
-Temos algumas questões na Linguagem C, usadas na disciplina de Introdução às Técnicas de Programação
+We have some questions in Language C, used in the discipline of Introduction to Programming Techniques
